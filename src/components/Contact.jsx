@@ -15,7 +15,7 @@ const Footer = () => {
             href="https://github.com/zJeanx6"
             target="_blank"
             rel="noopener noreferrer"
-            className="hover:text-green-400 transition-colors"
+            className="hover:text-gray-400 transition-colors"
             aria-label="GitHub"
           >
             <FaGithub />
@@ -24,7 +24,7 @@ const Footer = () => {
             href="https://www.linkedin.com/in/jean-roa-056799356/"
             target="_blank"
             rel="noopener noreferrer"
-            className="hover:text-green-400 transition-colors"
+            className="hover:text-gray-400 transition-colors"
             aria-label="LinkedIn"
           >
             <FaLinkedin />
@@ -33,14 +33,14 @@ const Footer = () => {
             href="https://www.instagram.com/jeannfacts/"
             target="_blank"
             rel="noopener noreferrer"
-            className="hover:text-green-400 transition-colors"
+            className="hover:text-gray-400 transition-colors"
             aria-label="Instagram"
           >
             <FaInstagram />
           </a>
           <a
             href="mailto:stebanrc21@gmail.com"
-            className="hover:text-green-400 transition-colors"
+            className="hover:text-gray-400 transition-colors"
             aria-label="Email"
           >
             <MdEmail />
